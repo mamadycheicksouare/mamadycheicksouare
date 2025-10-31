@@ -58,6 +58,8 @@ Currently working on building smart systems that connect AI and real-world appli
 ![LangChain](https://img.shields.io/badge/LangChain-1F1F1F?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graph&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 
 
 ### 🌐 Connect With Me
